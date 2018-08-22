@@ -1,5 +1,71 @@
 body {
+  background: #fff;
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: PingFang SC,Lantinghei SC,Helvetica Neue,Helvetica,Arial,Microsoft YaHei,\\5FAE\8F6F\96C5\9ED1,STHeitiSC-Light,simsun,\\5B8B\4F53,WenQuanYi Zen Hei,WenQuanYi Micro Hei,"sans-serif";
+  -webkit-font-smoothing: antialiased;
+}
+.pageWarp{
+  /* min-height: 400px; */
+  max-width: 1180px;
+  padding: 0 30px;
+  margin: 0 auto;
+  background: #fff;
+}
+.mt_10{
+  margin-top: 10px;
+}
+.mt_20{
+  margin-top: 20px;
+}
+.mt_30{
+  margin-top: 30px;
+}
+.mt_40{
+  margin-top: 40px;
+}
+.mt_50{
+  margin-top: 50px;
+}
+.mt_60{
+  margin-top: 60px;
+}
+.mb_10{
+  margin-bottom: 10px;
+}
+.mr_10{
+  margin-right: 10px;
+}
+.mr_5{
+  margin-right: 5px;
+}
+.ml_10{
+  margin-left: 10px;
+}
+.ml_20{
+  margin-left: 20px;
+}
+.ml_40{
+  margin-left: 40px;
+}
+.w_80{
+  width: 80%;
+}
+.w_100{
+  width: 100%;
+}
+.t-center{
+  text-align: center
+}
+.inline-block{
+  display: inline-block;
+  vertical-align: middle
+}
+.clear-margin{
+  margin: 0px
+}
+.kdzs-flex-column{
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
 }

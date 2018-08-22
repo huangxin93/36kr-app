@@ -1,3 +1,14 @@
+react+antd+react-redux
+1\ Lambdas are forbidden in JSX attributes due to their rendering performance impact
+  add tslint->jsx-no-lambda
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
